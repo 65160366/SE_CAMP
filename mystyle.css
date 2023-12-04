@@ -25,3 +25,9 @@ hr{
     color: red;
     border: 2px solid;
 } /*hr เส้น*/
+.box{
+    width: 400px;
+    height: 400px;
+    color: rgba(255,30,45,0,0.5);
+    background-color:rgb(49,255,34);
+}
