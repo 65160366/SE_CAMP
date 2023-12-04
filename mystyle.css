@@ -35,3 +35,6 @@ hr{
     padding-top: 10px;
     margin: 50px 25px;
 }
+.box:hover{
+    background-color: rgb(238, 135, 238);
+}
