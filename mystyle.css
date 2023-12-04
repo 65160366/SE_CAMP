@@ -38,3 +38,9 @@ hr{
 .box:hover{
     background-color: rgb(238, 135, 238);
 }
+a{
+    color: #3700ff;
+}
+a:link{
+    color: #ff0000;
+}
