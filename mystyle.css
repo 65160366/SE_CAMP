@@ -1,0 +1,25 @@
+/*
+Comment
+*/
+
+
+h1 {
+    font-family: 'TH SarabunPSK' , Arial , sans-serif;
+    font-size: 16pt;
+}
+.myfont{
+    font-family: 'Times New Roman' , Times , serif;
+}
+.coRed{
+    color: red;
+}
+.h1{
+    font-size: 16pt;
+}
+#myP{
+    font-size: 48pt;
+}
+hr{
+    color: red;
+    border: 2px solid;
+} /*hr เส้น*/
