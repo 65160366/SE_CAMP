@@ -28,6 +28,10 @@ hr{
 .box{
     width: 400px;
     height: 400px;
-    color: rgba(255,30,45,0,0.5);
-    background-color:rgb(49,255,34);
+    color: rgba(45, 255, 55, 0.5);
+    background-color:rgb(240, 241, 148);
+    text-align: center;
+    border: 5px dashed rgb(0 , 255 , 0);
+    padding-top: 50%;
+
 }
