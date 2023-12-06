@@ -28,11 +28,11 @@ hr{
 .box{
     width: 400px;
     height: 400px;
-    color: rgba(45, 255, 55, 0.5);
-    background-color:rgb(240, 241, 148);
+    color: rgba(45, 66, 255, 0.5);
     text-align: center;
     padding: 70px 0;
-    border: 5px dashed rgb(0, 255, 179);
+    background-color:rgb(240, 241, 148);
+    border: 5px dashed rgb(0, 255, 98);
     padding-top: 10px;
     margin: 50px 25px;
 }
