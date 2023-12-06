@@ -26,11 +26,14 @@ hr{
     border: 2px solid;
 } /*hr เส้น*/
 .box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 400px;
     height: 400px;
-    color: rgba(45, 66, 255, 0.5);
-    text-align: center;
-    padding: 70px 0;
+    font-weight: bold;
+    color: rgba(255, 45, 45, 0.5);
     background-color:rgb(240, 241, 148);
     border: 5px dashed rgb(0, 255, 98);
     padding-top: 10px;
@@ -38,4 +41,5 @@ hr{
 }
 .box:hover{
     background-color: rgb(238, 135, 238);
+    box-shadow: 30px 30px 15px rgb(0, 0, 0);
 }
