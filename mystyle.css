@@ -31,10 +31,10 @@ hr{
     color: rgba(45, 255, 55, 0.5);
     background-color:rgb(240, 241, 148);
     text-align: center;
+    display: inline-block;
     border: 5px dashed rgb(0 , 255 , 0);
     padding-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 50px 25px;
 }
 .box:hover{
     background-color: rgb(238, 135, 238);
