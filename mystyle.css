@@ -43,3 +43,38 @@ hr{
     background-color: rgb(238, 135, 238);
     box-shadow: 30px 30px 15px rgb(0, 0, 0);
 }
+p.normal {
+    font-style: normal;
+    font-weight: bold;
+}
+
+.normal.font16{
+    font-size: 16pt;
+    font-style: normal;
+    font-weight: bold;
+} 
+
+p.italic {
+    font-style: italic;
+    font-weight: bold;
+}
+
+div > div > p{
+    font-size: large;
+    font-weight: bold;
+}
+
+div > p{
+    font-size: smaller;
+    font-weight: bold;
+}
+
+.box2{
+    position: relative;
+    left: 0px;
+    border: 3px solid #73AD21;
+
+}
+div + p{
+    background-color: yellow;
+}
